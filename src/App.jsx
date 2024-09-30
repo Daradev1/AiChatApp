@@ -1,5 +1,5 @@
 import ButtonGradient from "./assets/assets/svg/ButtonGradient";
-import Benefits from "./components/Benefit";
+import Benefit from "./components/Benefit";
 import Collaboration from "./components/Collaboration";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -14,7 +14,7 @@ const App = () => {
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header />
         <Hero />
-        <Benefits />
+        <Benefit />
         <Collaboration />
         <Services />
         <Pricing />

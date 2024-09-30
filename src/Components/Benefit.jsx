@@ -5,7 +5,7 @@ import Arrow from "../assets/assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/assets/svg/ClipPath";
 
-const Benefits = () => {
+const Benefit = () => {
   return (
     <Section id="features">
       <div className="container relative z-2">
@@ -68,4 +68,4 @@ const Benefits = () => {
   );
 };
 
-export default Benefits;
+export default Benefit;
