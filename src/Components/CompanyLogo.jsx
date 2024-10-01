@@ -1,4 +1,4 @@
-import { companyLogos } from "./constants";
+import { companyLogos } from "./Constants/Index";
 
 const CompanyLogos = ({ className }) => {
   return (

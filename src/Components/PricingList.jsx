@@ -1,5 +1,5 @@
 import { check } from "../assets/assets";
-import { pricing } from "./constants";
+import { pricing } from "./Constants/Index";
 import Button from "./Button";
 
 const PricingList = () => {
